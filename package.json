@@ -1,0 +1,32 @@
+{
+  "name": "webdevelopment",
+  "version": "1.0.0",
+  "description": "weboptimization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "all",
+    "testing"
+  ],
+  "author": "Rahul sharma",
+  "license": "ISC",
+  "dependencies": {
+    "graceful-fs": "*",
+    "gulp": "*",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-concat-css": "*",
+    "gulp-minifier": "*",
+    "gulp-minify-css": "*",
+    "gulp-rename": "*",
+    "gulp-watch": "*",
+    "lodash": "*",
+    "minimatch": "*",
+    "react": "*"
+  },
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  }
+}
